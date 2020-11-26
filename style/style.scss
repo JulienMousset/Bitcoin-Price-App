@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transform-style: preserve-3d;
+    background-color: darkslategray;
+    color: seashell;
+    text-align: center;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    color: #ff9900;
+}
+
+.lighten {
+    color: #ff9900;
+}
+
+.logo img {
+    width: 10rem;
+    color: #33ff55;
+}
+
